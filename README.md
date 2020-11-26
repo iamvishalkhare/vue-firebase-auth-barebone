@@ -1,0 +1,1 @@
+# [Vue.js Firebase auth skeleton code]
